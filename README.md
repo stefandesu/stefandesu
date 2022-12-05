@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I still need to fill this up, but in the meanwhile, you can also find me on <a rel="me" href="https://social.nodoka.de/@stefandesu">Mastodon</a> and <a rel="me" href="https://youtube.com/@stefandesu">YouTube</a>.
+
 <!--
 **stefandesu/stefandesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
