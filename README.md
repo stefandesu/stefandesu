@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I still need to fill this up, but in the meanwhile, you can also find me on <a rel="me" href="https://social.nodoka.de/@stefandesu">Mastodon</a> and <a rel="me" href="https://youtube.com/@stefandesu">YouTube</a>.
+I still need to fill this up, but in the meantime, you can also find me on <a rel="me" href="https://hachyderm.io/@stefandesu">Mastodon</a>, <a rel="me" href="https://youtube.com/@stefandesu">YouTube</a>, and on my [mostly inactive blog](https://exo.pm).
 
 <!--
 **stefandesu/stefandesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
