@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I still need to fill this up, but in the meantime, you can also find me on <a rel="me" href="https://hachyderm.io/@stefandesu">Mastodon</a>, <a rel="me" href="https://youtube.com/@stefandesu">YouTube</a>, and on my [mostly inactive blog](https://exo.pm).
+I still need to fill this up, but in the meantime, you can also find me on <a rel="me" href="https://hachyderm.io/@stefandesu">Mastodon</a>, <a rel="me" href="https://youtube.com/@stefandesu">YouTube</a>, and on my [blog](https://exo.pm).
+
+If you, by any chance, have connections to IT companies (or other companies looking for someone like me) in or around **Trondheim, Norway**, please let me know. 🙏
 
 <!--
 **stefandesu/stefandesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
